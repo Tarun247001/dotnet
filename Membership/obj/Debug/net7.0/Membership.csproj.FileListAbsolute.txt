@@ -1,0 +1,12 @@
+C:\Siddhant&Tarun\dotnet\day3\Membership\bin\Debug\net7.0\Membership.deps.json
+C:\Siddhant&Tarun\dotnet\day3\Membership\bin\Debug\net7.0\Membership.dll
+C:\Siddhant&Tarun\dotnet\day3\Membership\bin\Debug\net7.0\Membership.pdb
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\Membership.csproj.AssemblyReference.cache
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\Membership.AssemblyInfoInputs.cache
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\Membership.AssemblyInfo.cs
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\Membership.csproj.CoreCompileInputs.cache
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\Membership.dll
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\refint\Membership.dll
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\Membership.pdb
+C:\Siddhant&Tarun\dotnet\day3\Membership\obj\Debug\net7.0\ref\Membership.dll

@@ -1,0 +1,12 @@
+C:\Siddhant&Tarun\dotnet\day3\CRM\bin\Debug\net7.0\CRM.deps.json
+C:\Siddhant&Tarun\dotnet\day3\CRM\bin\Debug\net7.0\CRM.dll
+C:\Siddhant&Tarun\dotnet\day3\CRM\bin\Debug\net7.0\CRM.pdb
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\CRM.csproj.AssemblyReference.cache
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\CRM.AssemblyInfoInputs.cache
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\CRM.AssemblyInfo.cs
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\CRM.csproj.CoreCompileInputs.cache
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\CRM.dll
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\refint\CRM.dll
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\CRM.pdb
+C:\Siddhant&Tarun\dotnet\day3\CRM\obj\Debug\net7.0\ref\CRM.dll

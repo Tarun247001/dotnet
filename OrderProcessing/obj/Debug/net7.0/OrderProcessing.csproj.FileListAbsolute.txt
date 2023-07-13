@@ -1,0 +1,12 @@
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\bin\Debug\net7.0\OrderProcessing.deps.json
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\bin\Debug\net7.0\OrderProcessing.dll
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\bin\Debug\net7.0\OrderProcessing.pdb
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\OrderProcessing.csproj.AssemblyReference.cache
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\OrderProcessing.AssemblyInfo.cs
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\OrderProcessing.dll
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\refint\OrderProcessing.dll
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\OrderProcessing.pdb
+C:\Siddhant&Tarun\dotnet\day3\OrderProcessing\obj\Debug\net7.0\ref\OrderProcessing.dll
